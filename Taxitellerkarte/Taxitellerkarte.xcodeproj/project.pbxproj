@@ -1,0 +1,590 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		EDB7EDD12FA7C428001C8B72 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EDB7EDB92FA7C427001C8B72 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EDB7EDC02FA7C427001C8B72;
+			remoteInfo = Taxitellerkarte;
+		};
+		EDB7EDDB2FA7C428001C8B72 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EDB7EDB92FA7C427001C8B72 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EDB7EDC02FA7C427001C8B72;
+			remoteInfo = Taxitellerkarte;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EDB7EDC12FA7C427001C8B72 /* Taxitellerkarte.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Taxitellerkarte.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDB7EDD02FA7C428001C8B72 /* TaxitellerkarteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaxitellerkarteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDB7EDDA2FA7C428001C8B72 /* TaxitellerkarteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaxitellerkarteUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		EDB7EDC32FA7C427001C8B72 /* Taxitellerkarte */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Taxitellerkarte;
+			sourceTree = "<group>";
+		};
+		EDB7EDD32FA7C428001C8B72 /* TaxitellerkarteTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TaxitellerkarteTests;
+			sourceTree = "<group>";
+		};
+		EDB7EDDD2FA7C428001C8B72 /* TaxitellerkarteUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TaxitellerkarteUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EDB7EDBE2FA7C427001C8B72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDB7EDCD2FA7C428001C8B72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDB7EDD72FA7C428001C8B72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EDB7EDB82FA7C427001C8B72 = {
+			isa = PBXGroup;
+			children = (
+				EDB7EDC32FA7C427001C8B72 /* Taxitellerkarte */,
+				EDB7EDD32FA7C428001C8B72 /* TaxitellerkarteTests */,
+				EDB7EDDD2FA7C428001C8B72 /* TaxitellerkarteUITests */,
+				EDB7EDC22FA7C427001C8B72 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EDB7EDC22FA7C427001C8B72 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EDB7EDC12FA7C427001C8B72 /* Taxitellerkarte.app */,
+				EDB7EDD02FA7C428001C8B72 /* TaxitellerkarteTests.xctest */,
+				EDB7EDDA2FA7C428001C8B72 /* TaxitellerkarteUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EDB7EDC02FA7C427001C8B72 /* Taxitellerkarte */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDB7EDE42FA7C428001C8B72 /* Build configuration list for PBXNativeTarget "Taxitellerkarte" */;
+			buildPhases = (
+				EDB7EDBD2FA7C427001C8B72 /* Sources */,
+				EDB7EDBE2FA7C427001C8B72 /* Frameworks */,
+				EDB7EDBF2FA7C427001C8B72 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				EDB7EDC32FA7C427001C8B72 /* Taxitellerkarte */,
+			);
+			name = Taxitellerkarte;
+			packageProductDependencies = (
+			);
+			productName = Taxitellerkarte;
+			productReference = EDB7EDC12FA7C427001C8B72 /* Taxitellerkarte.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EDB7EDCF2FA7C428001C8B72 /* TaxitellerkarteTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDB7EDE72FA7C428001C8B72 /* Build configuration list for PBXNativeTarget "TaxitellerkarteTests" */;
+			buildPhases = (
+				EDB7EDCC2FA7C428001C8B72 /* Sources */,
+				EDB7EDCD2FA7C428001C8B72 /* Frameworks */,
+				EDB7EDCE2FA7C428001C8B72 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EDB7EDD22FA7C428001C8B72 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EDB7EDD32FA7C428001C8B72 /* TaxitellerkarteTests */,
+			);
+			name = TaxitellerkarteTests;
+			packageProductDependencies = (
+			);
+			productName = TaxitellerkarteTests;
+			productReference = EDB7EDD02FA7C428001C8B72 /* TaxitellerkarteTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EDB7EDD92FA7C428001C8B72 /* TaxitellerkarteUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDB7EDEA2FA7C428001C8B72 /* Build configuration list for PBXNativeTarget "TaxitellerkarteUITests" */;
+			buildPhases = (
+				EDB7EDD62FA7C428001C8B72 /* Sources */,
+				EDB7EDD72FA7C428001C8B72 /* Frameworks */,
+				EDB7EDD82FA7C428001C8B72 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EDB7EDDC2FA7C428001C8B72 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EDB7EDDD2FA7C428001C8B72 /* TaxitellerkarteUITests */,
+			);
+			name = TaxitellerkarteUITests;
+			packageProductDependencies = (
+			);
+			productName = TaxitellerkarteUITests;
+			productReference = EDB7EDDA2FA7C428001C8B72 /* TaxitellerkarteUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EDB7EDB92FA7C427001C8B72 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2640;
+				LastUpgradeCheck = 2640;
+				TargetAttributes = {
+					EDB7EDC02FA7C427001C8B72 = {
+						CreatedOnToolsVersion = 26.4.1;
+					};
+					EDB7EDCF2FA7C428001C8B72 = {
+						CreatedOnToolsVersion = 26.4.1;
+						TestTargetID = EDB7EDC02FA7C427001C8B72;
+					};
+					EDB7EDD92FA7C428001C8B72 = {
+						CreatedOnToolsVersion = 26.4.1;
+						TestTargetID = EDB7EDC02FA7C427001C8B72;
+					};
+				};
+			};
+			buildConfigurationList = EDB7EDBC2FA7C427001C8B72 /* Build configuration list for PBXProject "Taxitellerkarte" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EDB7EDB82FA7C427001C8B72;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = EDB7EDC22FA7C427001C8B72 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EDB7EDC02FA7C427001C8B72 /* Taxitellerkarte */,
+				EDB7EDCF2FA7C428001C8B72 /* TaxitellerkarteTests */,
+				EDB7EDD92FA7C428001C8B72 /* TaxitellerkarteUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EDB7EDBF2FA7C427001C8B72 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDB7EDCE2FA7C428001C8B72 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDB7EDD82FA7C428001C8B72 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EDB7EDBD2FA7C427001C8B72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDB7EDCC2FA7C428001C8B72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDB7EDD62FA7C428001C8B72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EDB7EDD22FA7C428001C8B72 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EDB7EDC02FA7C427001C8B72 /* Taxitellerkarte */;
+			targetProxy = EDB7EDD12FA7C428001C8B72 /* PBXContainerItemProxy */;
+		};
+		EDB7EDDC2FA7C428001C8B72 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EDB7EDC02FA7C427001C8B72 /* Taxitellerkarte */;
+			targetProxy = EDB7EDDB2FA7C428001C8B72 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		EDB7EDE22FA7C428001C8B72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = VSX44WGZ7A;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EDB7EDE32FA7C428001C8B72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = VSX44WGZ7A;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		EDB7EDE52FA7C428001C8B72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VSX44WGZ7A;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.taxitellerkarte.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = auto;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EDB7EDE62FA7C428001C8B72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VSX44WGZ7A;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.taxitellerkarte.ios;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				SDKROOT = auto;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		EDB7EDE82FA7C428001C8B72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VSX44WGZ7A;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.taxitellerkarte.ios.Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Taxitellerkarte.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Taxitellerkarte";
+			};
+			name = Debug;
+		};
+		EDB7EDE92FA7C428001C8B72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VSX44WGZ7A;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.taxitellerkarte.ios.Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Taxitellerkarte.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Taxitellerkarte";
+			};
+			name = Release;
+		};
+		EDB7EDEB2FA7C428001C8B72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VSX44WGZ7A;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.taxitellerkarte.ios.UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Taxitellerkarte;
+			};
+			name = Debug;
+		};
+		EDB7EDEC2FA7C428001C8B72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VSX44WGZ7A;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = de.taxitellerkarte.ios.UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Taxitellerkarte;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EDB7EDBC2FA7C427001C8B72 /* Build configuration list for PBXProject "Taxitellerkarte" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDB7EDE22FA7C428001C8B72 /* Debug */,
+				EDB7EDE32FA7C428001C8B72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EDB7EDE42FA7C428001C8B72 /* Build configuration list for PBXNativeTarget "Taxitellerkarte" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDB7EDE52FA7C428001C8B72 /* Debug */,
+				EDB7EDE62FA7C428001C8B72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EDB7EDE72FA7C428001C8B72 /* Build configuration list for PBXNativeTarget "TaxitellerkarteTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDB7EDE82FA7C428001C8B72 /* Debug */,
+				EDB7EDE92FA7C428001C8B72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EDB7EDEA2FA7C428001C8B72 /* Build configuration list for PBXNativeTarget "TaxitellerkarteUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDB7EDEB2FA7C428001C8B72 /* Debug */,
+				EDB7EDEC2FA7C428001C8B72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EDB7EDB92FA7C427001C8B72 /* Project object */;
+}
